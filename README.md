@@ -60,9 +60,8 @@ Most shoes are priced between **$150–$250** (median **$212**), showing a focus
 
 ## 5. Visualizations
 
-- **Figure 1:** Average Price by Brand ([barchart.png](https://github.com/thynguyen1120/MIS-311/edit/main/README.md#:~:text=README.md-,barchart,-.png)).
-- **Figure 2:** Price Distribution ([histogram.png](https://github.com/thynguyen1120/MIS-311/edit/main/README.md#:~:text=barchart.png-,histogram,-.png)).
-
+- **Figure 1:** Average Price by Brand https://github.com/thynguyen1120/MIS-311/blob/main/barchart.png
+- **Figure 2:** Price Distribution 
 
 
 ## 6. Interesting Fact
