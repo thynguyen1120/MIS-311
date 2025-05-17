@@ -17,11 +17,6 @@ The dataset contains **202 rows and 4 columns**: `brand`, `color`, `size`, and `
 - **Duplicate Values:**  
   Three duplicate rows were found and removed to ensure each entry in the dataset represents a unique product record. This was performed in Excel by selecting the entire data table, navigating to the **Data** tab on the ribbon, and clicking **Remove Duplicates**. This step guarantees that statistical analysis is not skewed by repeated data.
 
-- **Data Type Verification:**  
-  Confirmed that `size` and `price` columns are of numeric data types for correct calculation and charting.
-
-*These data cleaning steps ensure the quality, accuracy, and reliability of the analysis results.*
-
 
 
 ## 3. Descriptive Statistics
